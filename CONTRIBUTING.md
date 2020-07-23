@@ -10,6 +10,6 @@ We :heart: contributions from our community! Thank you for taking the time to re
 
 There are many ways you can help us make this project better. Every repository is different and our goal is to create an app that is flexible enough to help most repositories, while still being easy for new app users to grok. If you would like to help, we use labels to organize the work that needs to be done. Look for the labels that fit your expertise:
 
-- **help-wanted**: DESCRIPTION PLACEHOLDER
+- **help-wanted**: I will use this when I find it necessary to take on more people to assist me. I will start looking for workers when I can afford it and when I 100% need it. 
 
 You can also help by translating documentation and reviewing open pull requests.
