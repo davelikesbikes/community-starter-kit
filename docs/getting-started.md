@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+This will be where I place instructions on how to configure my product that is very useful for whatever it is being used for. 
