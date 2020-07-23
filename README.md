@@ -4,7 +4,7 @@ This is my first description, I want to get to know some of these tools that I h
 
 ## What it does
 
-This will help me get fimiliar as I attempt to work on different projects and ideas. 
+This will help me get familiar as I attempt to work on different projects and ideas. 
 
 ## Getting started
 
