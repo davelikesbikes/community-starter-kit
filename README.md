@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is my first description, I want to get to know some of these tools that I have at disposal. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This will help me get fimiliar as I attempt to work on different projects and ideas. 
 
 ## Getting started
 
